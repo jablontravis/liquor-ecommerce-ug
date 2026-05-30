@@ -1,0 +1,1 @@
+# Dependencies\nnode_modules/\n\n# Build output\ndist/\nbuild/\n\n# Environment\n.env\n.env.local\n.env.*.local\n\n# Database\n*.db\n*.sqlite\n\n# Logs\nlogs/\n*.log\nnpm-debug.log*\n\n# IDE\n.vscode/\n.idea/\n*.swp\n*.swo\n\n# OS\n.DS_Store\n
